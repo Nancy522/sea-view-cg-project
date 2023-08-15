@@ -6,7 +6,7 @@ The programming is done using C/C++.
 
 To run this project:
 
-Firstly install all basic files which are required to setup OpenGL enviornment on desktop.
+Firstly install all basic files which are required to setup OpenGL enviornment for Visual Studio.
 
 Install Visual Studio on your desktop.
 Then create a file with extension .cpp and use the code which is provided under the file Source1.cpp.
