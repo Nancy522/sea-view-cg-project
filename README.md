@@ -1,5 +1,5 @@
-# myprojects
-SEA VIEW CG Project
+#CG Project
+SEA VIEW Project
 
 This project is completely developed using concepts of Computer Graphics and and some of the in-built libraries provided by OpenGL.
 The programming is done using C/C++.
